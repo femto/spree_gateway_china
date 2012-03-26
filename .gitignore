@@ -1,0 +1,10 @@
+*.gem
+.bundle
+Gemfile.lock
+pkg/*
+
+.idea
+.project
+.classpath
+*.bak
+~$.*
